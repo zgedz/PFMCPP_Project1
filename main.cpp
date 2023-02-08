@@ -51,85 +51,95 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
-//  1)
-//  Noun:
-//  action 1:
+//  1) 
+//  Noun: cell phone
+//  action 1: receives call
+cellPhone.receivesCall();
+//  action 2: receives text
+cellPhone.receivesText();
+//  action 3: takes photos
+cellPhone.takesPhotos();
 
-//  action 2:
-
-//  action 3:
-
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  2) 
+//  Noun: microphone
+//  action 1: receives audio
+microphone.receivesAudio();
+//  action 2: sends audio
+microphone.sendsAudio();
+//  action 3: filters audio
+microphone.filtersAudio();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: curtain
+//  action 1: blocks sunlight
+curtain.blocksSunlight();
+//  action 2: provides privacy
+curtain.providesPrivacy();
+//  action 3: supresses sound
+curtain.supressesSound();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: audio interface
+//  action 1:receives audio
+audioInterface.receivesAudio();
+//  action 2:sends audio
+audioInterface.sendsAudio();
+//  action 3:converts audio
+audioInterface.convertsAudio();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:pre amp
+//  action 1: receives audio
+preAmp.receivesAudio();
+//  action 2: sends audio
+preAmp.sendsAudio();
+//  action 3: converts audio
+preAmp.convertsAudio();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: rug
+//  action 1: protects floor
+rug.protectsFloor();
+//  action 2: covers floor
+rug.coversFloor();
+//  action 3: supresses sound
+rug.supressesSound();
 
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  7) 
+//  Noun: coat
+//  action 1: provides warmth
+coat.providesWarmth();
+//  action 2: provides fashion
+coat.providesFashion();
+//  action 3: protects from weather
+coat.protectsFromWeather();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: drill
+//  action 1: inserts screws
+drill.insertsScrews();
+//  action 2: removes screws
+drill.removesScrews();
+//  action 3: makes holes
+drill.makesHoles();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: candle
+//  action 1: emits scent
+candle.emitsScent();
+//  action 2: illuminates
+candle.illuminates();
+//  action 3: melts
+candle.melts();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: fire
+//  action 1: emits smoke
+fire.emitsSmoke();
+//  action 2: provides heat
+fire.providesHeat();
+//  action 3: burns other objects
+fire.burnsOtherObjects();
 
 
 
